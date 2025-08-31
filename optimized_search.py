@@ -6,7 +6,7 @@ from datetime import datetime
 import time
 
 # Set the correct path for the documents
-DOCUMENT_PATH = '/Path/To/SSN/Files'
+DOCUMENT_PATH = 'C:\Users\bobbi\Downloads\NPD'
 
 def format_ssn(ssn):
     if len(ssn) == 9:
